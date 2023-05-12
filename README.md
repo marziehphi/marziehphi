@@ -1,12 +1,6 @@
 ### Hi there 👋 I'm [Marzieh Farahani](https://app2.nameshouts.com/names/public/pronounce-marzieh-farahani)
 
-🌱 During my academic career as a bachelor's student in Mathematics, I acquired a strong foundation in mathematics and programming languages. Then, as a master's student at Umea University, I was exposed to various computational and machine-learning challenges, which sparked my interest in utilizing these skills in real-world situations. As a result, I did my master's thesis with Siemens Energy AB in Anomaly Detection and Prediction on Gas Turbine Time‑series Data Using Deep LSTM‑Autoencoders.
-
-My passion for AI led me to continue my career journey by joining AI Sweden and working with Innovator and forefront companies AstraZeneca, SU Hospital, and Zenseact. These experiences gave me a deeper understanding of how data-driven approaches can be applied to different domains (medicine and bioinformatics, patient trials, and self-driving cars ). Furthermore, as a result of this experience, I witnessed firsthand how computational tools and techniques can be used to analyze and interpret large amounts of data, resulting in discoveries and insights.
-
-Furthermore, I had the opportunity to contribute to ongoing research projects and collaborate with experts in the field. This allowed me to develop a more comprehensive understanding of the practical applications and how they can be leveraged to improve outcomes. These experiences also enabled me to develop technical skills,  and critical professional skills such as effective communication, teamwork, and project management.
-
-🔭 Overall, these experiences have played a crucial role in shaping my academic and professional goals. In addition, they have reinforced my passion for using AI and my desire to contribute to the field through further opportunities.
+I've collaborated with AI Sweden, AstraZeneca, SU Hospital, and Zenseact on various projects. I applied data-driven approaches to medicine, bioinformatics, clinical trials, and self-driving cars. As a result of working with experts, I gained both technical and professional skills, strengthening my commitment to contributing to the field of AI. 
 
 **📫 You can reach me on:**
 - [Twitter](https://twitter.com/marziehphi)
